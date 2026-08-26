@@ -4,25 +4,27 @@ on:
   workflow_dispatch:
     inputs:
       force_refresh:
-        description: "Re-fetch cases that already have valid JSON files"
+        description: "Re-fetch already completed CNRs"
         required: false
         type: boolean
         default: false
-      verbose_json:
-        description: "Print full decrypted JSON for every fetched CNR (very large logs)"
-        required: false
-        type: boolean
-        default: false
-      delay:
-        description: "Delay between CNR requests in seconds"
+      workers:
+        description: "Concurrent eCourts sessions (1-6)"
         required: true
         type: string
-        default: "1.5"
+        default: "3"
       max_attempts:
-        description: "Maximum attempts per failed CNR"
+        description: "Attempts per unfinished CNR"
         required: true
         type: string
-        default: "6"
+        default: "8"
+      boot_attempts:
+        description: "Session/bootstrap attempts"
+        required: true
+        type: string
+        default: "8"
+  schedule:
+    - cron: "30 0 * * *" # 06:00 Asia/Kolkata
 
 permissions:
   contents: write
@@ -33,11 +35,15 @@ concurrency:
 
 jobs:
   fetch:
-    name: Fetch all CNR cases
+    name: Resume unfinished eCourts CNRs
     runs-on: ubuntu-latest
     timeout-minutes: 180
     env:
       PYTHONUNBUFFERED: "1"
+      ECOURTS_FORCE_REFRESH: ${{ github.event_name == 'workflow_dispatch' && inputs.force_refresh || 'false' }}
+      ECOURTS_WORKERS: ${{ github.event_name == 'workflow_dispatch' && inputs.workers || '3' }}
+      ECOURTS_MAX_ATTEMPTS: ${{ github.event_name == 'workflow_dispatch' && inputs.max_attempts || '8' }}
+      ECOURTS_BOOT_ATTEMPTS: ${{ github.event_name == 'workflow_dispatch' && inputs.boot_attempts || '8' }}
 
     steps:
       - name: Checkout repository
@@ -51,68 +57,75 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependency
-        run: python -m pip install --upgrade pycryptodome
+        run: python -m pip install --disable-pip-version-check -q pycryptodome
 
-      - name: Environment check
+      - name: Show resume state
         run: |
-          echo "=== Runtime ==="
-          python --version
-          curl --version | head -n 2
-          echo "=== CNR input ==="
           python - <<'PY'
           import json
           from pathlib import Path
-          p = Path('cnr.json')
-          data = json.loads(p.read_text()) if p.exists() else []
-          if isinstance(data, dict):
-              data = data.get('cnrs', [])
-          print(f"cnr.json entries: {len(data) if isinstance(data, list) else 'invalid format'}")
+          master=json.loads(Path('cnr.json').read_text())
+          pending=Path('state/pending.json')
+          if pending.exists():
+              p=json.loads(pending.read_text()).get('pending',[])
+              print(f'Master CNRs: {len(master)} | Previous pending: {len(p)}')
+          else:
+              print(f'Master CNRs: {len(master)} | No saved state yet')
           PY
 
-      - name: Fetch cases — live status
-        env:
-          ECOURTS_FORCE_REFRESH: ${{ inputs.force_refresh }}
-          ECOURTS_VERBOSE_JSON: ${{ inputs.verbose_json }}
-          ECOURTS_DELAY: ${{ inputs.delay }}
-          ECOURTS_MAX_ATTEMPTS: ${{ inputs.max_attempts }}
+      - name: Fetch unresolved CNRs — live
+        id: fetch
         run: python -u fetchcases.py
 
-      - name: Commit generated JSON files
+      - name: Commit case data and resume state
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add cnr/all state logs cases.json 2>/dev/null || true
           if git diff --cached --quiet; then
-            echo "No case-data changes to commit."
+            echo "No generated changes to commit."
           else
-            echo "Generated files to commit:"
+            echo "Generated changes:"
             git diff --cached --name-status
-            git commit -m "Update eCourts case data"
-            git push
+            git commit -m "Update eCourts case progress"
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
 
-      - name: Verify all CNRs completed
+      - name: Write Actions summary
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+          print('## eCourts fetch status')
+          p=Path('state/pending.json')
+          c=Path('state/completed.json')
+          if c.exists():
+              d=json.loads(c.read_text())
+              print(f"- Completed: **{d.get('total_completed',0)} / {d.get('master_total',0)}**")
+          if p.exists():
+              d=json.loads(p.read_text())
+              print(f"- Pending: **{d.get('total_pending',0)}**")
+              for cnr in d.get('pending',[])[:20]: print(f"  - `{cnr}`")
+          print('- Source list: `cnr.json`')
+          print('- Individual cases: `cnr/all/<CNR>.json`')
+          print('- Daily history: `logs/YYYY-MM-DD.json`')
+          PY
+
+      - name: Verify completion
         run: |
           python - <<'PY'
           import json
           from pathlib import Path
-
-          failed = Path("failed.json")
-          if failed.exists():
-              data = json.loads(failed.read_text(encoding="utf-8"))
-              count = int(data.get("total_failed", 0))
-              if count:
-                  print(f"{count} CNR(s) remain incomplete.")
-                  print("Run the workflow again; already-valid cnr/all/*.json files will be skipped.")
-                  for item in data.get("failed", [])[:100]:
-                      print(f"- {item.get('cnr')}: {item.get('error')}")
-                  raise SystemExit(1)
-
-          cases = Path("cases.json")
-          if not cases.exists():
-              raise SystemExit("cases.json was not generated")
-
-          data = json.loads(cases.read_text(encoding="utf-8"))
-          print(f"Complete: {data.get('total', 0)} case(s) in cases.json")
+          p=Path('state/pending.json')
+          if not p.exists(): raise SystemExit('state/pending.json was not generated')
+          data=json.loads(p.read_text())
+          pending=data.get('pending',[])
+          if pending:
+              print(f'{len(pending)} CNR(s) still pending. They are preserved for the next run.')
+              for cnr in pending[:30]: print('-',cnr)
+              raise SystemExit(1)
+          print('All CNRs complete.')
           PY
