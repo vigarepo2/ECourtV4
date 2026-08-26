@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-08-26T20:02:01.833441Z",
+  "master_total": 479,
+  "total_pending": 4,
+  "pending": [
+    "PBFZC00008282026",
+    "PBFZC00009132026",
+    "PBFZC00009142022",
+    "PBFZC00019092026"
+  ],
+  "invalid_cnrs": []
+}

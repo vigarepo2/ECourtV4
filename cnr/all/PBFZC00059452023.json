@@ -1,0 +1,1722 @@
+{
+  "cnr": "PBFZC00059452023",
+  "fetched_at": "2026-08-26T19:37:51.271686Z",
+  "http_status": 200,
+  "response": {
+    "history": {
+      "regcase_type": 34,
+      "filcase_type": 34,
+      "date_of_filing": "2023-10-20",
+      "cino": "PBFZC00059452023",
+      "dt_regis": "2023-10-20",
+      "fil_no": 4873,
+      "fil_year": 2023,
+      "reg_no": 217,
+      "reg_year": 2023,
+      "date_first_list": "2023-10-20",
+      "date_next_list": "2026-08-07",
+      "archive": "Y",
+      "date_of_decision": "2026-08-07",
+      "disp_nature": 25,
+      "purpose_next": 3,
+      "court_no": 6,
+      "pet_name": "STATE OF PUNJAB",
+      "lpet_name": "",
+      "pet_adv": "",
+      "lpet_adv": "",
+      "res_name": "SIMARJEET SINGH@BEANT SINGH",
+      "lres_name": "",
+      "res_adv": "",
+      "lres_adv": "",
+      "res_legal_heir": "N",
+      "pet_legal_heir": "N",
+      "hide_pet_name": "N",
+      "hide_res_name": "N",
+      "pet_status": 0,
+      "res_status": 0,
+      "under_act1": 0,
+      "under_act2": 0,
+      "under_act3": 0,
+      "under_act4": 0,
+      "under_sec1": "",
+      "under_sec2": "",
+      "under_sec3": "",
+      "under_sec4": "",
+      "fir_no": "",
+      "police_st_code": 0,
+      "fir_year": 0,
+      "lower_court_code": 0,
+      "lower_court": "",
+      "lower_court_dec_dt": 0,
+      "filing_no": "203400048732023",
+      "case_no": "203400002172023",
+      "goshwara_no": 1,
+      "date_last_list": "2026-08-07",
+      "transfer_est": "N",
+      "main_matter_cino": null,
+      "main_case_no": null,
+      "time_slot": 0,
+      "purpose_prev": 0,
+      "efilno": "2581001023008502",
+      "0": "2581001023008502",
+      "efil_dt": "2023-10-20",
+      "1": "2023-10-20",
+      "purpose_name": "Defence Evidence ",
+      "lpurpose_name": "",
+      "sub_purposename": null,
+      "last_order": {
+        "order_id": "42",
+        "order_date1f": "07-08-2026",
+        "order_details": "Copy of order",
+        "filename": "/orders/2023/203400002172023_42.pdf",
+        "caseno": "SC/0000217/2023",
+        "cCode": 1,
+        "appFlag": "1",
+        "state_cd": 22,
+        "dist_cd": 26,
+        "court_code": 1,
+        "bilingual_flag": "0"
+      },
+      "last_business_date": {
+        "purpose": "Disposed",
+        "nextdate": "",
+        "judge_name": "Additional District and  Sessions Judge",
+        "todays_date": "07-08-2026",
+        "showbusiness": "Y",
+        "court_code": 1,
+        "dist_code": 26,
+        "n_dt": "",
+        "case_number": "203400002172023",
+        "state_code": 22,
+        "businessStatus": "Disposed",
+        "todays_date1": "07-08-2026",
+        "court_no": "6",
+        "cino": "PBFZC00059452023"
+      },
+      "ltype_name": "DC",
+      "type_name": "SC",
+      "fil_type_name": "SC",
+      "petName": "1) STATE OF PUNJAB",
+      "petAdv": "",
+      "ex_pet_name_addv": "",
+      "ex_pet_namelegal": [],
+      "ex_pet_name": "",
+      "disp_name": "ACQUITTED",
+      "ldisp_name": null,
+      "resName": "1) SIMARJEET SINGH@BEANT SINGH",
+      "resAdv": "",
+      "ex_res_name_addv": "",
+      "ex_res_namelegal": [],
+      "ex_res_name": "",
+      "act": [
+        {
+          "actCodeName": "Indian Penal Code",
+          "actSectionName": "506,376,450"
+        }
+      ],
+      "fir_details": "85^Bahaw Wala^2023",
+      "subordinateCourtInfoStr": null,
+      "historyOfCaseHearing": [
+        {
+          "purpose": "Appearance",
+          "nextdate": "20231027",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "20-10-2023",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20231027",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "20-10-2023",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20231208",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "27-10-2023",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20231208",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "27-10-2023",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240129",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "08-12-2023",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20240129",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "08-12-2023",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240314",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "29-01-2024",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20240314",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "29-01-2024",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240501",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "14-03-2024",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20240501",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "14-03-2024",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240704",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "01-05-2024",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20240704",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "01-05-2024",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240827",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "04-07-2024",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20240827",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "04-07-2024",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240905",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "27-08-2024",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20240905",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "27-08-2024",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Bail Application",
+          "nextdate": "20240913",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "05-09-2024",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20240913",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "05-09-2024",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Bail Application",
+          "nextdate": "20241011",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "13-09-2024",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20241011",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "13-09-2024",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20241202",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "11-10-2024",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20241202",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "11-10-2024",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250114",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "02-12-2024",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20250114",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "02-12-2024",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "REPLY",
+          "nextdate": "20250124",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "14-01-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20250124",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "14-01-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "REPLY",
+          "nextdate": "20250204",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "24-01-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20250204",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "24-01-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "REPLY",
+          "nextdate": "20250213",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "04-02-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20250213",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "04-02-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250320",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "13-02-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20250320",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "13-02-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250515",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "20-03-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20250515",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "20-03-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250724",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "15-05-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20250724",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "15-05-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250911",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "24-07-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20250911",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "24-07-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Appearance",
+          "nextdate": "20251016",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "11-09-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20251016",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "11-09-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Appearance",
+          "nextdate": "20251127",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "16-10-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20251127",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "16-10-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20251211",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "27-11-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20251211",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "27-11-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20260123",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "11-12-2025",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260123",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "11-12-2025",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20260221",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "23-01-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260221",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "23-01-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20260226",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "21-02-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260226",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "21-02-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20260316",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "26-02-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260316",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "26-02-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20260403",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "16-03-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260403",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "16-03-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20260508",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "03-04-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260508",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "03-04-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20260601",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "08-05-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260601",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "08-05-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20260703",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "01-06-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260703",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "01-06-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20260713",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "03-07-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260713",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "03-07-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20260722",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "13-07-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260722",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "13-07-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260724",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "22-07-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260724",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "22-07-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260728",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "24-07-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260728",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "24-07-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260730",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "28-07-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260730",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "28-07-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260801",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "30-07-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260801",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "30-07-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260804",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "01-08-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260804",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "01-08-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260807",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "04-08-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "20260807",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "DisposedP",
+          "todays_date1": "04-08-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        },
+        {
+          "purpose": "Disposed",
+          "nextdate": "",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "07-08-2026",
+          "showbusiness": "Y",
+          "court_code": 1,
+          "dist_code": 26,
+          "n_dt": "",
+          "case_number": "203400002172023",
+          "state_code": 22,
+          "businessStatus": "Disposed",
+          "todays_date1": "07-08-2026",
+          "court_no": "6",
+          "cino": "PBFZC00059452023"
+        }
+      ],
+      "interimOrder": [
+        {
+          "order_id": "1",
+          "order_date1": "20-10-2023",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_1.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "2",
+          "order_date1": "27-10-2023",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_2.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "3",
+          "order_date1": "08-12-2023",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_3.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "4",
+          "order_date1": "29-01-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_4.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "5",
+          "order_date1": "14-03-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_5.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "6",
+          "order_date1": "01-05-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_6.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "7",
+          "order_date1": "04-07-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_7.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "8",
+          "order_date1": "27-08-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_8.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "9",
+          "order_date1": "05-09-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_9.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "10",
+          "order_date1": "05-09-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_10.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "11",
+          "order_date1": "13-09-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_11.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "12",
+          "order_date1": "13-09-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_12.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "13",
+          "order_date1": "11-10-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_13.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "14",
+          "order_date1": "02-12-2024",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_14.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "15",
+          "order_date1": "14-01-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_15.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "16",
+          "order_date1": "24-01-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_16.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "17",
+          "order_date1": "04-02-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_17.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "18",
+          "order_date1": "13-02-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_18.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "19",
+          "order_date1": "20-03-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_19.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "20",
+          "order_date1": "15-05-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_20.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "21",
+          "order_date1": "24-07-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_21.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "22",
+          "order_date1": "11-09-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_22.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "23",
+          "order_date1": "16-10-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_23.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "24",
+          "order_date1": "27-11-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_24.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "25",
+          "order_date1": "11-12-2025",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_25.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "26",
+          "order_date1": "23-01-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_26.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "27",
+          "order_date1": "21-02-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_27.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "28",
+          "order_date1": "26-02-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_28.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "29",
+          "order_date1": "16-03-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_29.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "30",
+          "order_date1": "03-04-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_30.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "31",
+          "order_date1": "08-05-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_31.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "32",
+          "order_date1": "01-06-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_32.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "33",
+          "order_date1": "03-07-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_33.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "34",
+          "order_date1": "13-07-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_34.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "35",
+          "order_date1": "22-07-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_35.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "36",
+          "order_date1": "24-07-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_36.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "37",
+          "order_date1": "28-07-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_37.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "38",
+          "order_date1": "30-07-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_38.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "39",
+          "order_date1": "01-08-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_39.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "40",
+          "order_date1": "04-08-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_40.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        }
+      ],
+      "finalOrder": [
+        {
+          "order_id": "41",
+          "order_date1f": "07-08-2026",
+          "order_details": "Copy of Judgment",
+          "filename": "/orders/2023/203400002172023_41.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        },
+        {
+          "order_id": "42",
+          "order_date1f": "07-08-2026",
+          "order_details": "Copy of order",
+          "filename": "/orders/2023/203400002172023_42.pdf",
+          "caseno": "SC/0000217/2023",
+          "cCode": 1,
+          "appFlag": "1",
+          "state_cd": 22,
+          "dist_cd": 26,
+          "court_code": 1,
+          "bilingual_flag": "0"
+        }
+      ],
+      "transfer": null,
+      "desgname": "Additional District and  Sessions Judge",
+      "ldesgname": "Case is not allocated to court.",
+      "petparty_name": "STATE OF PUNJAB",
+      "resparty_name": "SIMARJEET SINGH@BEANT SINGH",
+      "court_name": "District and Sessions Courts, Fazilka",
+      "est_code": "PBFZC0",
+      "lcourt_name": "",
+      "version": "NC4.0",
+      "state_code": 22,
+      "district_code": 26,
+      "state_name": "Punjab",
+      "lstate_name": "",
+      "district_name": "Fazilka",
+      "ldistrict_name": "Fazilka",
+      "transfer_est_flag": null,
+      "transfer_est_name": null,
+      "transfer_est_date": null,
+      "writinfo": null,
+      "processes": [
+        {
+          "process_id": "PPBFZC00059452023_1_1",
+          "process_date": "20-10-2023",
+          "process_title": "PRODUCTION WARRANT TO JAIL. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_2_1",
+          "process_date": "27-10-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_2_2",
+          "process_date": "27-10-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_2_3",
+          "process_date": "27-10-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_3_1",
+          "process_date": "08-12-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_3_2",
+          "process_date": "08-12-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_3_3",
+          "process_date": "08-12-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_4_2",
+          "process_date": "29-01-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_4_1",
+          "process_date": "29-01-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_4_3",
+          "process_date": "29-01-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_5_1",
+          "process_date": "14-03-2024",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_5_3",
+          "process_date": "14-03-2024",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_5_2",
+          "process_date": "14-03-2024",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_6_1",
+          "process_date": "04-07-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_6_2",
+          "process_date": "04-07-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_7_1",
+          "process_date": "27-08-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_8_1",
+          "process_date": "27-08-2024",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_7_3",
+          "process_date": "27-08-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_7_4",
+          "process_date": "27-08-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_7_2",
+          "process_date": "27-08-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_9_1",
+          "process_date": "11-10-2024",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_10_2",
+          "process_date": "11-10-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_10_1",
+          "process_date": "11-10-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_10_3",
+          "process_date": "11-10-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_12_3",
+          "process_date": "02-12-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_12_2",
+          "process_date": "02-12-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_11_1",
+          "process_date": "02-12-2024",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_12_1",
+          "process_date": "02-12-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_13_1",
+          "process_date": "18-02-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_14_1",
+          "process_date": "18-02-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_16_1",
+          "process_date": "27-03-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_15_1",
+          "process_date": "27-03-2025",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_17_2",
+          "process_date": "19-05-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_17_1",
+          "process_date": "19-05-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_20_1",
+          "process_date": "06-08-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_19_5",
+          "process_date": "06-08-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_19_2",
+          "process_date": "06-08-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_20_2",
+          "process_date": "06-08-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_19_3",
+          "process_date": "06-08-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_19_4",
+          "process_date": "06-08-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_19_1",
+          "process_date": "06-08-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_21_1",
+          "process_date": "23-09-2025",
+          "process_title": "Warrant of arrest [Sec. 70] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_22_1",
+          "process_date": "23-09-2025",
+          "process_title": "Notice to surety on breach of a bond [Sec. 446] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_23_1",
+          "process_date": "29-10-2025",
+          "process_title": "Warrant of arrest [Sec. 70] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_24_1",
+          "process_date": "29-10-2025",
+          "process_title": "Notice to surety on breach of a bond [Sec. 446] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_25_1",
+          "process_date": "03-12-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_25_4",
+          "process_date": "03-12-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_25_2",
+          "process_date": "03-12-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_25_3",
+          "process_date": "03-12-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_26_1",
+          "process_date": "18-12-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_26_3",
+          "process_date": "18-12-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_26_2",
+          "process_date": "18-12-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_27_1",
+          "process_date": "27-01-2026",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_27_2",
+          "process_date": "27-01-2026",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_28_1",
+          "process_date": "27-01-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_29_1",
+          "process_date": "24-02-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_30_1",
+          "process_date": "24-02-2026",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_29_3",
+          "process_date": "24-02-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_30_2",
+          "process_date": "24-02-2026",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_29_2",
+          "process_date": "24-02-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_31_1",
+          "process_date": "06-03-2026",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_32_1",
+          "process_date": "06-03-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00059452023_35_1",
+          "process_date": "19-03-2026",
+          "process_title": "Non"
+        },
+        {
+          "process_id": "PPBFZC00059452023_34_1",
+          "process_date": "19-03-2026",
+          "process_title": "Bailable Warrants of arrest of Witness. []"
+        },
+        {
+          "process_id": "PPBFZC00059452023_36_1",
+          "process_date": "03-04-2026",
+          "process_title": "Proclamation requiring the attendance of a witness [Sec. 82, 87, 90]"
+        },
+        {
+          "process_id": "PPBFZC00059452023_38_2",
+          "process_date": "11-05-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244]"
+        },
+        {
+          "process_id": "PPBFZC00059452023_38_1",
+          "process_date": "11-05-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244]"
+        },
+        {
+          "process_id": "PPBFZC00059452023_39_1",
+          "process_date": "04-06-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244]"
+        },
+        {
+          "process_id": "PPBFZC00059452023_39_2",
+          "process_date": "04-06-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244]"
+        },
+        {
+          "process_id": "PPBFZC00059452023_39_3",
+          "process_date": "04-06-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244]"
+        },
+        {
+          "process_id": "PPBFZC00059452023_40_2",
+          "process_date": "14-07-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244]"
+        },
+        {
+          "process_id": "PPBFZC00059452023_40_1",
+          "process_date": "14-07-2026",
+          "process_title": "Summons to witness [Sec. 61 and 244]"
+        },
+        {
+          "process_id": "PPBFZC00059452023_41_1",
+          "process_date": "23-07-2026",
+          "process_title": "PRODUCTION WARRANT TO JAIL. []"
+        },
+        {
+          "process_id": "PPBFZC00059452023_42_1",
+          "process_date": "27-07-2026",
+          "process_title": "PRODUCTION WARRANT TO JAIL. []"
+        },
+        {
+          "process_id": "PPBFZC00059452023_43_1",
+          "process_date": "28-07-2026",
+          "process_title": "PRODUCTION WARRANT TO JAIL. []"
+        },
+        {
+          "process_id": "PPBFZC00059452023_44_1",
+          "process_date": "31-07-2026",
+          "process_title": "PRODUCTION WARRANT TO JAIL. []"
+        },
+        {
+          "process_id": "PPBFZC00059452023_45_1",
+          "process_date": "03-08-2026",
+          "process_title": "PRODUCTION WARRANT TO JAIL. []"
+        }
+      ],
+      "complex_code": 1220086,
+      "court_code": 1,
+      "iaFiling": [
+        {
+          "caseTypeNoYear": "IA/1/2024   ",
+          "rowtoprint": "Classification : ",
+          "party_name": "SIMARJEET SINGH@BEANT SINGH<br/>STATE OF PUNJAB<br/>",
+          "dispdate": "05-09-2024",
+          "next_date": "13-09-2024",
+          "status": "Disposed",
+          "ia_no": "300000012024"
+        }
+      ],
+      "sub_matter": null,
+      "main_matter": null,
+      "link_cases": null,
+      "hide_partyname_est": "N",
+      "casetype_conversion": null,
+      "lfil_type_name": ""
+    }
+  }
+}

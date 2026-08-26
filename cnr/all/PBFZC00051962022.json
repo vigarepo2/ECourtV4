@@ -1,0 +1,819 @@
+{
+  "cnr": "PBFZC00051962022",
+  "fetched_at": "2026-08-26T19:34:55.261257Z",
+  "http_status": 200,
+  "response": {
+    "history": {
+      "regcase_type": 34,
+      "filcase_type": 34,
+      "date_of_filing": "2022-10-13",
+      "cino": "PBFZC00051962022",
+      "dt_regis": "2022-10-13",
+      "fil_no": 4213,
+      "fil_year": 2022,
+      "reg_no": 271,
+      "reg_year": 2022,
+      "date_first_list": "2022-10-13",
+      "date_next_list": "2026-01-21",
+      "archive": "Y",
+      "date_of_decision": "2026-01-21",
+      "disp_nature": 24,
+      "purpose_next": 3,
+      "court_no": 6,
+      "pet_name": "HDM2+bMbIw2wEF8dnbjXTQ==",
+      "lpet_name": "",
+      "pet_adv": "",
+      "lpet_adv": "",
+      "res_name": "1NCo6pUWBEuDvRgmghHCqw==",
+      "lres_name": "",
+      "res_adv": "",
+      "lres_adv": "",
+      "res_legal_heir": "N",
+      "pet_legal_heir": "N",
+      "hide_pet_name": "N",
+      "hide_res_name": "Y",
+      "pet_status": 0,
+      "res_status": 0,
+      "under_act1": 0,
+      "under_act2": 0,
+      "under_act3": 0,
+      "under_act4": 0,
+      "under_sec1": "",
+      "under_sec2": "",
+      "under_sec3": "",
+      "under_sec4": "",
+      "fir_no": "",
+      "police_st_code": 0,
+      "fir_year": 0,
+      "lower_court_code": 0,
+      "lower_court": "",
+      "lower_court_dec_dt": 0,
+      "filing_no": "203400042132022",
+      "case_no": "203400002712022",
+      "goshwara_no": 1,
+      "date_last_list": "2026-01-21",
+      "transfer_est": "N",
+      "main_matter_cino": null,
+      "main_case_no": null,
+      "time_slot": 0,
+      "purpose_prev": 0,
+      "efilno": "2581000522009601",
+      "0": "2581000522009601",
+      "efil_dt": "2022-10-13",
+      "1": "2022-10-13",
+      "purpose_name": "Defence Evidence ",
+      "lpurpose_name": "",
+      "sub_purposename": null,
+      "last_order": null,
+      "last_business_date": null,
+      "ltype_name": "DC",
+      "type_name": "SC",
+      "fil_type_name": "SC",
+      "petName": "1) HDM2+bMbIw2wEF8dnbjXTQ==",
+      "petAdv": "",
+      "ex_pet_name_addv": "",
+      "ex_pet_namelegal": [],
+      "ex_pet_name": "",
+      "disp_name": "CONVICTED",
+      "ldisp_name": null,
+      "resName": "1) XXXXXXX",
+      "resAdv": "",
+      "ex_res_name_addv": "",
+      "ex_res_namelegal": [],
+      "ex_res_name": "",
+      "act": [
+        {
+          "actCodeName": "Indian Penal Code",
+          "actSectionName": "376,506"
+        },
+        {
+          "actCodeName": "Protection of Children from Sexual Offences Act, 2012",
+          "actSectionName": "6"
+        }
+      ],
+      "fir_details": "96^Arni Wala^2022",
+      "subordinateCourtInfoStr": null,
+      "historyOfCaseHearing": [
+        {
+          "purpose": "Appearance",
+          "nextdate": "20221029",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "13-10-2022"
+        },
+        {
+          "purpose": "Appearance",
+          "nextdate": "20221130",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "29-10-2022"
+        },
+        {
+          "purpose": "Charge",
+          "nextdate": "20221212",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "30-11-2022"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20230123",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "12-12-2022"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20230310",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "23-01-2023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20230426",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "10-03-2023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20230524",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "26-04-2023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20230717",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "24-05-2023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20230830",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "17-07-2023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20231006",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "30-08-2023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20231201",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "06-10-2023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240216",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "01-12-2023"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240401",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "16-02-2024"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240527",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "01-04-2024"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240731",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "27-05-2024"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20240919",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "31-07-2024"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20241108",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "19-09-2024"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20241221",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "08-11-2024"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250203",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "21-12-2024"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250319",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "03-02-2025"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250429",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "19-03-2025"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250528",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "29-04-2025"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250723",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "28-05-2025"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20250828",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "23-07-2025"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20251004",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "28-08-2025"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20251101",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "04-10-2025"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20251119",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "01-11-2025"
+        },
+        {
+          "purpose": "Prosecution Evidence",
+          "nextdate": "20251210",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "19-11-2025"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20251219",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "10-12-2025"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260102",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "19-12-2025"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260107",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "02-01-2026"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260113",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "07-01-2026"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260116",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "13-01-2026"
+        },
+        {
+          "purpose": "Defence Evidence",
+          "nextdate": "20260121",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "16-01-2026"
+        },
+        {
+          "purpose": "Disposed",
+          "nextdate": "",
+          "judge_name": "Additional District and  Sessions Judge",
+          "todays_date": "21-01-2026"
+        }
+      ],
+      "interimOrder": [
+        {
+          "order_id": "1",
+          "order_date1": "13-10-2022",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "2",
+          "order_date1": "29-10-2022",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "3",
+          "order_date1": "30-11-2022",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "4",
+          "order_date1": "12-12-2022",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "5",
+          "order_date1": "23-01-2023",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "6",
+          "order_date1": "10-03-2023",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "7",
+          "order_date1": "26-04-2023",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "8",
+          "order_date1": "24-05-2023",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "9",
+          "order_date1": "17-07-2023",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "10",
+          "order_date1": "30-08-2023",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "11",
+          "order_date1": "06-10-2023",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "12",
+          "order_date1": "01-12-2023",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "13",
+          "order_date1": "16-02-2024",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "14",
+          "order_date1": "01-04-2024",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "15",
+          "order_date1": "27-05-2024",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "16",
+          "order_date1": "31-07-2024",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "17",
+          "order_date1": "19-09-2024",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "18",
+          "order_date1": "08-11-2024",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "19",
+          "order_date1": "21-12-2024",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "20",
+          "order_date1": "03-02-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "21",
+          "order_date1": "19-03-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "22",
+          "order_date1": "29-04-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "23",
+          "order_date1": "28-05-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "24",
+          "order_date1": "23-07-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "25",
+          "order_date1": "28-08-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "26",
+          "order_date1": "04-10-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "27",
+          "order_date1": "01-11-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "28",
+          "order_date1": "19-11-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "29",
+          "order_date1": "10-12-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "30",
+          "order_date1": "19-12-2025",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "31",
+          "order_date1": "02-01-2026",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "32",
+          "order_date1": "07-01-2026",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "33",
+          "order_date1": "13-01-2026",
+          "order_details": "Copy of order"
+        },
+        {
+          "order_id": "34",
+          "order_date1": "16-01-2026",
+          "order_details": "Copy of order"
+        }
+      ],
+      "finalOrder": [
+        {
+          "order_id": "35",
+          "order_date1f": "21-01-2026",
+          "order_details": "Copy of Judgment"
+        },
+        {
+          "order_id": "36",
+          "order_date1f": "21-01-2026",
+          "order_details": "Copy of order"
+        }
+      ],
+      "transfer": null,
+      "desgname": "Additional District and  Sessions Judge",
+      "ldesgname": "Case is not allocated to court.",
+      "petparty_name": "HDM2+bMbIw2wEF8dnbjXTQ==",
+      "resparty_name": "XXXXXXX",
+      "court_name": "District and Sessions Courts, Fazilka",
+      "est_code": "PBFZC0",
+      "lcourt_name": "",
+      "version": "NC4.0",
+      "state_code": 22,
+      "district_code": 26,
+      "state_name": "Punjab",
+      "lstate_name": "",
+      "district_name": "Fazilka",
+      "ldistrict_name": "Fazilka",
+      "transfer_est_flag": null,
+      "transfer_est_name": null,
+      "transfer_est_date": null,
+      "writinfo": null,
+      "processes": [
+        {
+          "process_id": "PPBFZC00051962022_3_2",
+          "process_date": "10-03-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_3_1",
+          "process_date": "10-03-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_4_1",
+          "process_date": "26-04-2023",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_4_2",
+          "process_date": "26-04-2023",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_5_2",
+          "process_date": "24-05-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_5_1",
+          "process_date": "24-05-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_7_1",
+          "process_date": "17-07-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_6_1",
+          "process_date": "17-07-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_8_1",
+          "process_date": "17-07-2023",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_10_1",
+          "process_date": "06-10-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_9_1",
+          "process_date": "06-10-2023",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_12_1",
+          "process_date": "01-12-2023",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_11_1",
+          "process_date": "01-12-2023",
+          "process_title": "Non-Bailable Warrant Of Arrest Of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_14_1",
+          "process_date": "16-02-2024",
+          "process_title": "Non-Bailable Warrant Of Arrest Of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_13_1",
+          "process_date": "16-02-2024",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_16_1",
+          "process_date": "01-04-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_15_1",
+          "process_date": "01-04-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_15_2",
+          "process_date": "01-04-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_17_1",
+          "process_date": "27-05-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_18_1",
+          "process_date": "31-07-2024",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_19_3",
+          "process_date": "19-09-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_19_1",
+          "process_date": "19-09-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_19_4",
+          "process_date": "19-09-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_19_2",
+          "process_date": "19-09-2024",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_21_1",
+          "process_date": "08-11-2024",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_21_2",
+          "process_date": "08-11-2024",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_22_1",
+          "process_date": "21-12-2024",
+          "process_title": "Non-Bailable Warrant Of Arrest Of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_23_3",
+          "process_date": "13-02-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_23_2",
+          "process_date": "13-02-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_23_1",
+          "process_date": "13-02-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_24_1",
+          "process_date": "26-03-2025",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_24_2",
+          "process_date": "26-03-2025",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_24_3",
+          "process_date": "26-03-2025",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_26_1",
+          "process_date": "02-05-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_26_2",
+          "process_date": "02-05-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_25_1",
+          "process_date": "02-05-2025",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_26_3",
+          "process_date": "02-05-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_27_1",
+          "process_date": "04-06-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_29_1",
+          "process_date": "04-06-2025",
+          "process_title": "Non-Bailable Warrant Of Arrest Of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_30_1",
+          "process_date": "04-06-2025",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_28_1",
+          "process_date": "04-06-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_32_1",
+          "process_date": "05-06-2025",
+          "process_title": "Non-Bailable Warrant Of Arrest Of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_31_1",
+          "process_date": "05-06-2025",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_34_1",
+          "process_date": "05-08-2025",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_36_1",
+          "process_date": "05-08-2025",
+          "process_title": "PRODUCTION WARRANT TO JAIL. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_35_1",
+          "process_date": "05-08-2025",
+          "process_title": "Proclamation requiring the apperance of a person accused [Sec. 82] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_33_1",
+          "process_date": "05-08-2025",
+          "process_title": "Non-Bailable Warrant Of Arrest Of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_37_1",
+          "process_date": "05-08-2025",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_40_1",
+          "process_date": "28-08-2025",
+          "process_title": "PRODUCTION WARRANT TO JAIL. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_38_1",
+          "process_date": "28-08-2025",
+          "process_title": "Proclamation requiring the attendance of a witness [Sec. 82, 87, 90] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_39_1",
+          "process_date": "28-08-2025",
+          "process_title": "Non-Bailable Warrant Of Arrest Of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_42_1",
+          "process_date": "24-10-2025",
+          "process_title": "PRODUCTION WARRANT TO JAIL. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_41_1",
+          "process_date": "24-10-2025",
+          "process_title": "Summons to witness [Sec. 61 and 244] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_43_1",
+          "process_date": "10-11-2025",
+          "process_title": "PRODUCTION WARRANT TO JAIL. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_44_1",
+          "process_date": "28-11-2025",
+          "process_title": "Bailable Warrants of arrest of Witness. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_45_1",
+          "process_date": "11-12-2025",
+          "process_title": "PRODUCTION WARRANT TO JAIL. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_46_1",
+          "process_date": "22-12-2025",
+          "process_title": "PRODUCTION WARRANT TO JAIL. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_47_1",
+          "process_date": "09-01-2026",
+          "process_title": "PRODUCTION WARRANT TO JAIL. [] "
+        },
+        {
+          "process_id": "PPBFZC00051962022_48_1",
+          "process_date": "14-01-2026",
+          "process_title": "PRODUCTION WARRANT TO JAIL. [] "
+        }
+      ],
+      "complex_code": 1220086,
+      "court_code": 1,
+      "iaFiling": null,
+      "sub_matter": null,
+      "main_matter": null,
+      "link_cases": null,
+      "hide_partyname_est": "N",
+      "casetype_conversion": null,
+      "lfil_type_name": ""
+    }
+  }
+}

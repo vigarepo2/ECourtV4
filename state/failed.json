@@ -1,0 +1,22 @@
+{
+  "updated_at": "2026-08-26T20:02:01.833615Z",
+  "total_failed": 4,
+  "failed": [
+    {
+      "cnr": "PBFZC00008282026",
+      "error": "HTTP 405"
+    },
+    {
+      "cnr": "PBFZC00009132026",
+      "error": "HTTP 405"
+    },
+    {
+      "cnr": "PBFZC00009142022",
+      "error": "HTTP 405"
+    },
+    {
+      "cnr": "PBFZC00019092026",
+      "error": "HTTP 405"
+    }
+  ]
+}
