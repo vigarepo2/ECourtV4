@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-29",
+  "timezone": "Asia/Kolkata",
+  "runs": [
+    {
+      "started_at": "2026-08-29T07:13:49.664577Z",
+      "finished_at": "2026-08-29T07:13:50.160752Z",
+      "status": "complete",
+      "master_total": 479,
+      "already_complete_at_start": 479,
+      "attempted": 0,
+      "success_this_run": 0,
+      "failed_this_run": 0,
+      "total_complete": 479,
+      "total_pending": 0,
+      "successes": [],
+      "failures": [],
+      "duration_seconds": 0.5
+    }
+  ],
+  "latest": {
+    "started_at": "2026-08-29T07:13:49.664577Z",
+    "finished_at": "2026-08-29T07:13:50.160752Z",
+    "status": "complete",
+    "master_total": 479,
+    "already_complete_at_start": 479,
+    "attempted": 0,
+    "success_this_run": 0,
+    "failed_this_run": 0,
+    "total_complete": 479,
+    "total_pending": 0,
+    "successes": [],
+    "failures": [],
+    "duration_seconds": 0.5
+  }
+}
